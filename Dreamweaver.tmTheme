@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>name</key>
+	<key>name</key>
 	<string>Dreamweaver</string>
 	<key>settings</key>
 	<array>
@@ -291,11 +291,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#990099</string>
+				<string>#ffff00</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#990000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -308,7 +308,7 @@
 				<key>background</key>
 				<string>#0000ff</string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#990000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -319,7 +319,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFCFC2</string>
+				<string>#0000ff</string>
 			</dict>
 		</dict>
 
@@ -342,7 +342,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#990099</string>
+				<string>#990000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -364,7 +364,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#000099</string>
 			</dict>
 		</dict>
 
