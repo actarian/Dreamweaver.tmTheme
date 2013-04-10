@@ -306,7 +306,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0000ff</string>
+				<string>#ffff90</string>
 				<key>foreground</key>
 				<string>#990000</string>
 			</dict>
